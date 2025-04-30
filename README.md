@@ -28,7 +28,7 @@ pip install gower-multiprocessing
 ```python
 import numpy as np
 import pandas as pd
-import gower-multiprocessing as gower
+import gower_multiprocessing as gower
 
 Xd=pd.DataFrame({'age':[21,21,19, 30,21,21,19,30,None],
 'gender':['M','M','N','M','F','F','F','F',None],
